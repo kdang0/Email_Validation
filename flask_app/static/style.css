@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+}
+
+.font-list{
+    font-size: 30px;
+}
+
+.span-left{
+    position: relative;
+    left: 30px;
+}
+
+.gray{
+    color:rgb(248, 210, 140);
+}
+
+.red{
+    color:rgb(218, 105, 105);
+}
